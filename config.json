@@ -1,0 +1,10 @@
+{
+    "modelType": "AudioClassifier",
+    "owner": "oceaster",
+    "name": "Generic-Audio-Classifier",
+    "dataset_paths": {
+        "train": null,
+        "valid": null,
+        "test": null
+    }
+}
