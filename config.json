@@ -2,5 +2,9 @@
     "modelType": "AudioClassifier",
     "owner": "oceaster",
     "name": "Generic-Audio-Classifier",
-    "dataset_paths": {}
+    "dataset_paths": {
+        "train": null,
+        "valid": null,
+        "test": "/home/owen/.config/mlth/datasets/__test__/audio"
+    }
 }
