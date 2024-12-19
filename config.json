@@ -1,5 +1,6 @@
 {
     "modelType": "AudioClassifier",
     "owner": "oceaster",
-    "name": "Generic-Audio-Classifier"
+    "name": "Generic-Audio-Classifier",
+    "dataset_paths": {}
 }
